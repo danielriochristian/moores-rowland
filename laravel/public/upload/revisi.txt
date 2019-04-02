@@ -1,0 +1,18 @@
+1. detail -> profile
+service + s
+key person + s
+
+2. samain font profile
+
+3. map gedein
+
+4. tambahin tulisan sebelum link : "for detailed information, please refer to the firm website:"
+
+5. hr
+
+
+1. /memberarea (login)
+sign ganti logo moores rowland
+button login gani warna ungu
+
+2. /memberarea (dashboard) samain kaya web utama
